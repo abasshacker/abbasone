@@ -209,7 +209,9 @@ function create_config( )
     "ingroup",
     "inpm",
     "banhammer",
-    ".",
+    "time",
+    "src",
+    "id",
     "Feedback",
     "plugins",
     "lock_join",
@@ -239,7 +241,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {139534999},--Sudo users
+    sudo_users = {179983320},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -247,10 +249,10 @@ function create_config( )
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : @unkownhacker
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @rm13790115   〰〰〰〰〰〰〰〰
+   ߔࠀ   @unkownhacker `~~~~~~~
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
    !feedback (your ideas and messages)
@@ -342,7 +344,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-Creed bots Help for mods : Plugins
+extreme bots Help for mods : Plugins
 
 Banhammer : 
 
@@ -455,7 +457,7 @@ Says every thing he knows about a group
 Changes or Makes new group link
 لینک گروه رو عوض میکنه 
 
-!getlink
+!link
 gets The Group link
 لینک گروه را در گروه نمایش میده
 
@@ -532,10 +534,16 @@ To tags the every one and sends your message at bottom
 تگ کردن همه ی اعضای گروه و نوشتن پیام شما زیرش
 
 〰〰〰〰〰〰〰〰〰
-More plugins  soon ...
-⚠️ We are Creeds ⚠️
+6.سایر امکانات
+!src ***
+!echo ***
+!time ***
+!text ***
 
-our channel : @creedantispam_channel
+More plugins  soon ...
+⚠️ We are extreme ⚠️
+
+our channel : @extremerobos
 کانال ما
 
 You Can user both "!" & "/" for them
